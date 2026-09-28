@@ -1,0 +1,6 @@
+{
+  "name": "LUMIÈRE Beauty Studio",
+  "description": "Premium hair, beauty and wellness salon. Where Beauty Meets Precision. Book appointments, explore bespoke luxury services, and manage bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
